@@ -25,7 +25,7 @@ Removes all images named <none>
 
 ````
 docker sh
-`````
+````
 
 Starts an container and opens in shell
 
